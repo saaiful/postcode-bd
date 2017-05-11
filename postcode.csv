@@ -245,8 +245,8 @@ Chittagong,Chittagong,Mirsharai,Joarganj,4324
 Chittagong,Chittagong,Mirsharai,Korerhat,4327
 Chittagong,Chittagong,Mirsharai,Mirsharai,4320
 Chittagong,Chittagong,Mirsharai,Mohazanhat,4328
-Chittagong,Chittagong,Patia Head Office,Budhpara,4371
-Chittagong,Chittagong,Patia Head Office,Patia Head Office,4370
+Chittagong,Chittagong,Patiya,Budhpara,4371
+Chittagong,Chittagong,Patiya,Patiya Head Office,4370
 Chittagong,Chittagong,Rangunia,Dhamair,4361
 Chittagong,Chittagong,Rangunia,Rangunia,4360
 Chittagong,Chittagong,Rouzan,B.I.T Post Office,4349
@@ -311,20 +311,20 @@ Chittagong,Comilla,Muradnagar,Muradnagar,3540
 Chittagong,Comilla,Muradnagar,Pantibazar,3545
 Chittagong,Comilla,Muradnagar,Ramchandarpur,3541
 Chittagong,Comilla,Muradnagar,Sonakanda,3544
-Chittagong,Cox’s Bazar,Chiringga,Badarkali,4742
-Chittagong,Cox’s Bazar,Chiringga,Chiringga,4740
-Chittagong,Cox’s Bazar,Chiringga,Chiringga S.O,4741
-Chittagong,Cox’s Bazar,Chiringga,Malumghat,4743
-Chittagong,Cox’s Bazar,Coxs Bazar Sadar,Coxs Bazar Sadar,4700
-Chittagong,Cox’s Bazar,Coxs Bazar Sadar,Eidga,4702
-Chittagong,Cox’s Bazar,Coxs Bazar Sadar,Zhilanja,4701
-Chittagong,Cox’s Bazar,Gorakghat,Gorakghat,4710
-Chittagong,Cox’s Bazar,Kutubdia,Kutubdia,4720
-Chittagong,Cox’s Bazar,Ramu,Ramu,4730
-Chittagong,Cox’s Bazar,Teknaf,Hnila,4761
-Chittagong,Cox’s Bazar,Teknaf,St.Martin,4762
-Chittagong,Cox’s Bazar,Teknaf,Teknaf,4760
-Chittagong,Cox’s Bazar,Ukhia,Ukhia,4750
+Chittagong,Coxâ€™s Bazar,Chiringga,Badarkali,4742
+Chittagong,Coxâ€™s Bazar,Chiringga,Chiringga,4740
+Chittagong,Coxâ€™s Bazar,Chiringga,Chiringga S.O,4741
+Chittagong,Coxâ€™s Bazar,Chiringga,Malumghat,4743
+Chittagong,Coxâ€™s Bazar,Coxs Bazar Sadar,Coxs Bazar Sadar,4700
+Chittagong,Coxâ€™s Bazar,Coxs Bazar Sadar,Eidga,4702
+Chittagong,Coxâ€™s Bazar,Coxs Bazar Sadar,Zhilanja,4701
+Chittagong,Coxâ€™s Bazar,Gorakghat,Gorakghat,4710
+Chittagong,Coxâ€™s Bazar,Kutubdia,Kutubdia,4720
+Chittagong,Coxâ€™s Bazar,Ramu,Ramu,4730
+Chittagong,Coxâ€™s Bazar,Teknaf,Hnila,4761
+Chittagong,Coxâ€™s Bazar,Teknaf,St.Martin,4762
+Chittagong,Coxâ€™s Bazar,Teknaf,Teknaf,4760
+Chittagong,Coxâ€™s Bazar,Ukhia,Ukhia,4750
 Chittagong,Feni,Chhagalnaia,Chhagalnaia,3910
 Chittagong,Feni,Chhagalnaia,Daraga Hat,3912
 Chittagong,Feni,Chhagalnaia,Maharajganj,3911
@@ -824,6 +824,32 @@ Dhaka,Tangail,Tangail Sadar,Korotia,1903
 Dhaka,Tangail,Tangail Sadar,Purabari,1904
 Dhaka,Tangail,Tangail Sadar,Santosh,1902
 Dhaka,Tangail,Tangail Sadar,Tangail Sadar,1900
+Khulna,Bagherhat,Bagerhat Sadar,Bagerhat Sadar,9300
+Khulna,Bagherhat,Bagerhat Sadar,P.C College,9301
+Khulna,Bagherhat,Bagerhat Sadar,Rangdia,9302
+Khulna,Bagherhat,Chalna Ankorage,Chalna Ankorage,9350
+Khulna,Bagherhat,Chalna Ankorage,Mongla Port,9351
+Khulna,Bagherhat,Chitalmari,Barabaria,9361
+Khulna,Bagherhat,Chitalmari,Chitalmari,9360
+Khulna,Bagherhat,Fakirhat,Bhanganpar Bazar,9372
+Khulna,Bagherhat,Fakirhat,Fakirhat,9370
+Khulna,Bagherhat,Fakirhat,Mansa,9371
+Khulna,Bagherhat,Kachua UPO,Kachua,9310
+Khulna,Bagherhat,Kachua UPO,Sonarkola,9311
+Khulna,Bagherhat,Mollahat,Charkulia,9383
+Khulna,Bagherhat,Mollahat,Dariala,9382
+Khulna,Bagherhat,Mollahat,Kahalpur,9381
+Khulna,Bagherhat,Mollahat,Mollahat,9380
+Khulna,Bagherhat,Mollahat,Nagarkandi,9384
+Khulna,Bagherhat,Mollahat,Pak Gangni,9385
+Khulna,Bagherhat,Morelganj,Morelganj,9320
+Khulna,Bagherhat,Morelganj,Sannasi Bazar,9321
+Khulna,Bagherhat,Morelganj,Telisatee,9322
+Khulna,Bagherhat,Rampal,Foylahat,9341
+Khulna,Bagherhat,Rampal,Gourambha,9343
+Khulna,Bagherhat,Rampal,Rampal,9340
+Khulna,Bagherhat,Rampal,Sonatunia,9342
+Khulna,Bagherhat,Rayenda,Rayenda,9330
 Khulna,Chuadanga,Alamdanga,Alamdanga,7210
 Khulna,Chuadanga,Alamdanga,Hardi,7211
 Khulna,Chuadanga,Chuadanga Sadar,Chuadanga Sadar,7200
@@ -832,32 +858,6 @@ Khulna,Chuadanga,Damurhuda,Andulbaria,7222
 Khulna,Chuadanga,Damurhuda,Damurhuda,7220
 Khulna,Chuadanga,Damurhuda,Darshana,7221
 Khulna,Chuadanga,Doulatganj,Doulatganj,7230
-Khulna,IBH WAs Here,Bagerhat Sadar,Bagerhat Sadar,9300
-Khulna,IBH WAs Here,Bagerhat Sadar,P.C College,9301
-Khulna,IBH WAs Here,Bagerhat Sadar,Rangdia,9302
-Khulna,IBH WAs Here,Chalna Ankorage,Chalna Ankorage,9350
-Khulna,IBH WAs Here,Chalna Ankorage,Mongla Port,9351
-Khulna,IBH WAs Here,Chitalmari,Barabaria,9361
-Khulna,IBH WAs Here,Chitalmari,Chitalmari,9360
-Khulna,IBH WAs Here,Fakirhat,Bhanganpar Bazar,9372
-Khulna,IBH WAs Here,Fakirhat,Fakirhat,9370
-Khulna,IBH WAs Here,Fakirhat,Mansa,9371
-Khulna,IBH WAs Here,Kachua UPO,Kachua,9310
-Khulna,IBH WAs Here,Kachua UPO,Sonarkola,9311
-Khulna,IBH WAs Here,Mollahat,Charkulia,9383
-Khulna,IBH WAs Here,Mollahat,Dariala,9382
-Khulna,IBH WAs Here,Mollahat,Kahalpur,9381
-Khulna,IBH WAs Here,Mollahat,Mollahat,9380
-Khulna,IBH WAs Here,Mollahat,Nagarkandi,9384
-Khulna,IBH WAs Here,Mollahat,Pak Gangni,9385
-Khulna,IBH WAs Here,Morelganj,Morelganj,9320
-Khulna,IBH WAs Here,Morelganj,Sannasi Bazar,9321
-Khulna,IBH WAs Here,Morelganj,Telisatee,9322
-Khulna,IBH WAs Here,Rampal,Foylahat,9341
-Khulna,IBH WAs Here,Rampal,Gourambha,9343
-Khulna,IBH WAs Here,Rampal,Rampal,9340
-Khulna,IBH WAs Here,Rampal,Sonatunia,9342
-Khulna,IBH WAs Here,Rayenda,Rayenda,9330
 Khulna,Jessore,Bagharpara,Bagharpara,7470
 Khulna,Jessore,Bagharpara,Gouranagar,7471
 Khulna,Jessore,Chaugachha,Chougachha,7410
