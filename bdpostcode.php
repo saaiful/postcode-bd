@@ -51,7 +51,11 @@ foreach ($html->find('.mw-headline') as $key => $value) {
         $division = str_replace(" বিভাগ", '', $value->innertext);
         $divisions[] = $division;
     }
+    if (preg_match('/জেলা/', $value->innertext)) {
+        $divisions[] = $division;
+    }
 }
+
 foreach ($html->find('.wikitable') as $key => $value) {
     if (preg_match("/থানা/", $value->innertext)) {
         $division = $divisions[$key];
